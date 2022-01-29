@@ -30,4 +30,4 @@
         image: "anilchelluru/mydockerdemo:{{DOCKER_TAG}}"
         state: started
         published_ports:
-          - 0.0.0.0:8080:8080
+          - 0.0.0.0:9090:8080
